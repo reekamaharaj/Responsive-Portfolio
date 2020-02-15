@@ -132,8 +132,8 @@ button {
     bottom: 0;
     width: 100%;
     text-align: center;
-    background: #4aaaa5;
-    color: white;
+    background: #white;
+    color: black;
     line-height: 36px;
     margin-bottom: 8%;
     opacity: 0.8;
