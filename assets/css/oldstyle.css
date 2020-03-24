@@ -1,4 +1,4 @@
-* {
+/* * {
     font-family: 'Montserrat', sans-serif;
     color: #0d1a2b;
     background: #ffffff;
@@ -21,25 +21,26 @@ html {
     list-style: none;
     display: inline-block;
     padding: 15px;
-}
+} */
 
-header {
+/* header {
     color: #ffffff;
     background: #ffffff;
     display: flex;
     justify-content: space-between;
     align-items: center;
     border-bottom: 1.5px solid #bcced6;
-}
+} */
 
-a {
+/* a {
     text-decoration: none;
-}
+} */
 
-#weblink {
+/* #weblink {
     font-weight: bold;
-}
-h1 {
+} */
+
+/* h1 {
     font-family: 'Dancing Script', cursive;
     font-size: 40px;
     color: #ffffff;
@@ -47,14 +48,14 @@ h1 {
     text-align: center;
     padding: 20px 30px 20px 30px;
     margin-left: 10%;
-}
+} */
 
-h2 {
+/* h2 {
     color: #1565c0;
     border-bottom: 1.5px solid #1565c0;
     padding-bottom: 20px;
-}
-
+} */
+/* 
 .container {
     margin-left: 10%;
     padding: 30px;
@@ -63,32 +64,19 @@ h2 {
     margin-top: 5%;
     margin-bottom: 10%;
     flex: 1 0 auto;
-}
+} */
 
-footer {
-    background: #1565c0;
-    height: 50px;
-    border-top: 8px solid #1565c0;
-    flex-shrink: 0;
-    vertical-align: 90%;
-    color: #ffffff;
-    font-size: small;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    padding-bottom: 5px;
-}
 
-p {
+/* p {
     line-height: 2;
     padding-bottom: 20px;
-}
+} */
 
-img {
+/* img {
     width: 200px;
     padding-top: 40px;
     padding-right:20px;
-}
+} */
 
 form {
     margin-bottom: 5px;
@@ -143,10 +131,10 @@ button {
     display: flex;
     flex-wrap: wrap;
 }
-
+/* 
 .profilepic {
     float: left;
-}
+} */
 
 /* Large screens, Desktops */
 @media screen and (max-width: 980px) {
