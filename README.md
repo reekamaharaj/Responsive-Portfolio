@@ -6,6 +6,7 @@ Portfolio. Built with Tailwind CSS and HTML
 ## Tech used
 - HTML
 - Tailwind CSS
+- Visual Studio
 
 ![](assets/images/portfolio.png)
 
