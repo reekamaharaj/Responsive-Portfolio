@@ -8,7 +8,7 @@ Portfolio. Built with Tailwind CSS and HTML
 - Tailwind CSS
 - Visual Studio
 
-![](assets/images/portfolio.png)
+![](assets/images/portfolio.jpg)
 
 ## References
 - [Background image Reference](https://unsplash.com/@adrienl?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge)
